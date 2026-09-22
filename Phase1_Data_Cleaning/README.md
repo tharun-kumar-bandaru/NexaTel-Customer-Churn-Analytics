@@ -1,4 +1,4 @@
-# 🧹 Phase 1 — Data Cleaning & Quality Check
+# Phase 1 — Data Cleaning & Quality Check
 
 ## NexaTel Customer Churn Analytics
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 Phase 1 focuses on **Data Loading, Cleaning and Quality Check** for the NexaTel Customer Churn Analytics project.
 
@@ -21,7 +21,7 @@ This phase establishes a reliable foundation for all subsequent analysis.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of Phase 1 are to:
 
@@ -45,7 +45,7 @@ The main objectives of Phase 1 are to:
 
 ---
 
-## 📂 Dataset Structure
+## Dataset Structure
 
 The NexaTel database contains 24 interconnected tables.
 
@@ -78,7 +78,7 @@ The NexaTel database contains 24 interconnected tables.
 
 ---
 
-## 🔍 Data Quality Checks
+## Data Quality Checks
 
 The following checks were performed during Phase 1.
 
