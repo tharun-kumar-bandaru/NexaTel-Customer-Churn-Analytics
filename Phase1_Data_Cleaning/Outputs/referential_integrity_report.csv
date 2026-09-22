@@ -1,0 +1,16 @@
+table,rows_checked,invalid_customer_ids
+subscriptions,20523,0
+billing,115313,0
+usage_voice,57000,0
+usage_sms,57000,0
+usage_data,57000,0
+network_quality,57000,0
+support_tickets,31490,0
+complaints,16584,0
+customer_feedback,28499,0
+retention_campaigns,6475,0
+payments,92362,0
+recharges,146501,0
+contracts,10607,0
+devices,19000,0
+plan_history,19349,0

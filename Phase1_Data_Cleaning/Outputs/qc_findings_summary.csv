@@ -1,0 +1,14 @@
+check,result,status
+Total CSV files,24,PASS
+Duplicate customer_id,152,ISSUE
+Duplicate invoice_id,688,ISSUE
+Future billing dates,125,ISSUE
+Negative billing totals,229,ISSUE
+Invalid customer ages,23,ISSUE
+Invalid PIN codes,191,ISSUE
+Invalid phone numbers,19076,ISSUE
+Broken payment invoice IDs,184,ISSUE
+Unresolved complaints,7348,REVIEW
+Null subscription plan IDs,41,ISSUE
+Invalid subscription statuses,102,ISSUE
+Data usage outliers,4480,REVIEW
