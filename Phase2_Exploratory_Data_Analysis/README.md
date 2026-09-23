@@ -1,6 +1,6 @@
 # Phase 2: Exploratory Data Analysis
 
-NexaTel Customer Churn Analytics 
+## NexaTel Customer Churn Analytics 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
