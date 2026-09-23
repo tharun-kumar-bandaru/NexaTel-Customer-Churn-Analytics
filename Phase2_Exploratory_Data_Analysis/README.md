@@ -5,7 +5,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-76B900)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![Internmo](https://img.shields.io/badge/Internmo-Data%20Analyst%20Internship-blue)
 
 ## Project Overview
 
