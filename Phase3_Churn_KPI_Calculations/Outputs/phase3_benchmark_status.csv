@@ -1,0 +1,5 @@
+KPI,Value,Target,Status
+Customer Churn Rate,1.2877211238293444,< 2.10%,PASS
+First Contact Resolution,40.412829469672914,> 78%,BELOW TARGET
+Average Resolution Time,16.04446590156698,< 24 hours,PASS
+Postpaid/Fibre Renewal Rate,59.09090909090909,> 88%,BELOW TARGET
