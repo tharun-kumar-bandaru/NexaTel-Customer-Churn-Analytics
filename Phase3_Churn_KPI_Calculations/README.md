@@ -6,8 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-green)
-![Status](https://img.shields.io/badge/Phase-3%20Completed-success)
+
 
 ---
 
